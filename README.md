@@ -1,0 +1,1 @@
+Interesting assignment that really made me think about this from the system level. Processing the timer values was super interesting as you had to read the MSB to determine AM or PM, so there was a lot of manipulating numbers to display them as needed.
